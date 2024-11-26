@@ -1,1 +1,52 @@
-{}
+{
+  "3197010291304": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1732648801136,
+      "response": false
+    },
+    "lastCharge": 1732645201136,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283863545778": {
+    "chat": 10000,
+    "role": "Pacar",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "flow": 1,
+    "coins": 1,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 50,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1732648847564,
+      "response": false
+    },
+    "lastCharge": 1732645247564,
+    "fswaps": {
+      "list": []
+    }
+  }
+}
